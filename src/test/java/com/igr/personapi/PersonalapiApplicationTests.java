@@ -1,4 +1,4 @@
-package com.igr.personalapi;
+package com.igr.personapi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

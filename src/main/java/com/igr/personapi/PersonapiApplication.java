@@ -1,13 +1,13 @@
-package com.igr.personalapi;
+package com.igr.personapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PersonalapiApplication {
+public class PersonapiApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(PersonalapiApplication.class, args);
+        SpringApplication.run(PersonapiApplication.class, args);
     }
 
 }
